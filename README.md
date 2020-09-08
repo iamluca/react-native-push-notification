@@ -12,12 +12,6 @@ Check out for changes in the CHANGELOG:
 
 [Changelog](https://github.com/zo0r/react-native-push-notification/blob/master/CHANGELOG.md)
 
-# Supporting the project
-
-Maintaining this project takes time. To help allocate time, you can Buy Me a Coffee :wink:
-
-<a href="https://www.buymeacoffee.com/Dallas62" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
 ## Supported React Native Versions
 
 | Component Version | RN Versions          | README                                                                                                                 |
